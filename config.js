@@ -7,7 +7,7 @@ var config = {
     title: 'МОНГОЛ ОРНЫ ХАМГИЙН ТОМ ТАЛБАЙТАЙ 5 НУУР',
     subtitle: '',
     //byline: 'УВС НУУР  I 	ХӨВСГӨЛ НУУР	 I  ХАР-УС НУУР	 I  ХЯРГАС НУУР 	I  БУЙР НУУР 	I  ХАР НУУР	 I  ДӨРГӨН НУУР	I АЧИТ НУУР	I БӨӨН ЦАГААН НУУР	I ҮҮРЭГ НУУР',
-    footer: 'Created by: Baljinnyam Enkhtur @BG_HYPERX',
+    footer: '©Baljinnyam Enkhtur @BG_HYPERX',
     chapters: [
         {
             id: 'D1',
